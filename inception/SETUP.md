@@ -1,4 +1,6 @@
-# SETUP (Updated for macOS 27 -- Golden Gate)
+# SETUP 
+
+- *Updated for macOS 27 -- Golden Gate -- 10/2026*
 
 ## Installing MSP430 Compiler
 
