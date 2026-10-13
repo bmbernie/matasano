@@ -1,4 +1,6 @@
-# Pre-Reqs
+# Debugging
+
+## Setup
 
 1. Firmware -> I included the prebuilt elf binary in [firmware](firmware/).
 2. Launchpad working and connected to computer (micro usb -> usb) (LED On)
