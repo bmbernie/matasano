@@ -1,0 +1,18 @@
+# Local build output
+build/
+
+# Compiler intermediates
+*.o
+*.d
+*.su
+*.map
+*.lst
+*.bin
+*.hex
+
+# Python
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
