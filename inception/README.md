@@ -16,7 +16,7 @@ When it was my turn to create the CTF i ended up combining the two together into
 
 In that spirit, a new challenge has arrived!
 
-~~~text
+~~~
 Greetings, Matasanoans --
 
 I have just received the first physical prototype from Lockitall for our Rev P-A.01 LockIT Pro board. Unfortunately, due to a hard drive crash, we lost the source code—and now we are locked out of our own locks!
