@@ -1,5 +1,7 @@
 # Inception CTF
 
+![Launchpad Giveaways Used For Recruiting](./img/mtso-launchpad-back.jpg)
+
 ## Context (Updated)
 
 For those of us who have worked infosec consulting for any length of time the term "engagement grind" brings to mind the typical ebb and flow of the engagement lifecycle and the mad dash to get the report ready for delivery.  This usually leads to long and late nights on Thursday cramming for Friday morning's readout.
