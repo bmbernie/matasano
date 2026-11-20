@@ -8,7 +8,7 @@ Its original premise was a fictional Lockitall LockIT Pro electronic lock. Playe
 
 It also served recruiting and outreach.  Ptacek helped popularize the use of public CTFs as a way to attract interested developers from the separate work-sample exercises used to assess candidates.  Thomas H. Ptacek, Hans Neilson, and Nicholas Carlini presented their work at [USENIX](https://www.usenix.org/conference/3gse14/technical-sessions/presentation/microcorupution-security-games-qualify-and-hire)
 
-For a while, many companies were adopting these types of challenges to help with recruiting.  They work pretty well, although they do select for a certain type of personality.  Enjoy this walk through CTF history. 
+For a while, many companies were adopting these types of challenges to help with recruiting.  They work pretty well, although they do select for a certain type of personality.  Enjoy this walk through CTF history.
 
 <p>
   <img src="assets/mtso-launchpad-front.jpg" width="48%">
