@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/microcorruption-screenshot.png" alt="Screenshot accompanying the Microcorruption history" width="800">
+</p>
+
 # History
 
 I was hired by Matasano in July of 2014.  During the interview I learned about their embedded security CTF challenge.  Afterwards I went home and solved a bunch of the challenges and continued to work on them throughout my first month and the solutions were kept in a private repo.  My first month consisted of hacking on both microcorruption, cryptopals, and our super secure bank challenges.
